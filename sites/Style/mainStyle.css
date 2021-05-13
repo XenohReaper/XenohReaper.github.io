@@ -1,0 +1,100 @@
+body{
+	background-color:#f8f8f8;
+	height: 100%;
+
+}
+
+header{
+	height: 230px;
+}
+#withot_marker li{
+list-style-type: none;
+margin: 0px;
+}
+#withot_marker {
+  display: flex;
+justify-content: space-between;
+width: 300px;
+padding-top: 30px;
+order: 999;
+margin-left: auto;
+margin-right: 40px;
+
+}
+
+#work li {
+	list-style-type: none;
+	margin: 0px;
+}
+
+#withot_marker a{
+color: black;
+text-decoration: none;
+}
+#withot_marker li :hover{
+color: blue;
+background-color:lightgrey;
+ border-radius: 2px;
+}
+.main form input,textarea {
+	
+width:250px;
+height: auto;
+color: blue;
+font-size:15px;
+font-weight:500;
+}
+header img{
+	padding-left: 30px;
+padding-top: 10px;
+    width: 300px;
+	
+}
+
+header div{
+	display: flex;
+}
+.main{
+	height:auto;
+}
+footer {
+	position: relative;
+	width: 99%;
+	
+	background-color: lightgray;
+	height:60px;
+	text-align:center;
+	top:10%;
+
+}
+
+
+footer p{
+
+	margin-top:20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
